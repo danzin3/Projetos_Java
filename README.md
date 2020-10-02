@@ -1,0 +1,1 @@
+Alguns Projetos em Java, como a implementação do Algoritmo de Dijisktra e alguns padrões de projeto
